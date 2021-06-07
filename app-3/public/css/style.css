@@ -1,0 +1,33 @@
+.sensor-1, .sensor-2{
+    width: 100%;
+}
+
+h1, .sensor-label{
+    font-size: 5rem;
+}
+
+.title-label, .sensor-label{
+    font-family: 'Raleway', Helvetica, sans-serif;
+}
+.title-label{
+    font-size: 2.5rem;
+}
+
+@media(min-width: 576px){
+    .sensor-label{
+        font-size: 5.5rem;
+    }
+    .title-label{
+        font-size: 2.75rem;
+    }
+}
+
+@media(min-width: 768px){
+    .sensor-label{
+        font-size: 6rem;
+    }
+    .title-label{
+        font-size: 3rem;
+    }
+}
+
