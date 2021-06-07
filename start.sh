@@ -1,0 +1,1 @@
+node app-1/index.js & node app-2/index.js & node app-3/server.js

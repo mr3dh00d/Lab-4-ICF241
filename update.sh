@@ -1,0 +1,1 @@
+cd app-3/ && npm install && cd ..
