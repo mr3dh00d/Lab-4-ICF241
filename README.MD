@@ -30,4 +30,4 @@ Y para su uso normal solo se debe ejecutar el comando.
 
 - Franco Montiel
 - Dereck Pavez
-- Diego Perez
+- Diego Pérez
