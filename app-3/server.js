@@ -20,7 +20,7 @@ app.get('/', (req, res)=>{
 });
 
 var server = http.createServer(app).listen(port, ()=>{
-    console.log('Pagina levantada');
+    console.log('Pagina levantada http://localhost:7080/');
 });
 
 var io = socketio(server);
